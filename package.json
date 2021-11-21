@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0",
+    "validator": "^13.7.0"
+  },
+  "name": "cipogyakorlas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yebo!",
+  "license": "MIT",
+  "description": ""
+}
